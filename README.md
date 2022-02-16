@@ -14,8 +14,8 @@
 # Social🛸
 
 <div style="width: 10px; display: flex; justify-content: left;">
-    <a href="">
-
+    <a href="https://t.me/ErlanzZz">
+        <img scrc="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="100px">
     </a>
 </div>
 
