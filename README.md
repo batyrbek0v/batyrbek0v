@@ -8,7 +8,7 @@
  
 <div style='display:flex; align-items:center;'>
     <img  src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="300px">
-    <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500px" height="300px">
+    <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500px" height="100px">
 </div>
 
 <br>
@@ -16,8 +16,9 @@
 # Social🛸
 
 <div style="width: 10px; display: flex; justify-content: left;">
-    <img src="https://www.jaspersomsen.com/wp-spullies/uploads/2017/03/instagram-Logo-PNG-Transparent-Background-download.png" alt="">
-    <img style=" margin-left: 25px;" src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-svg-vector.svg" alt="">
+    <a href="">
+
+    </a>
 </div>
 
 <br>
