@@ -7,7 +7,7 @@
 # Code on👨‍💻
  
 <div style='display:flex; align-items:center;'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="100px">
+    <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="300px">
     <img src="">
     <img src="">
 </div>
