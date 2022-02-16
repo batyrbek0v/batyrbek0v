@@ -6,7 +6,11 @@
 
 # Code on👨‍💻
  
-<img width ="150px" src="https://img1.freepng.ru/20180330/rte/kisspng-logo-desktop-wallpaper-computer-icons-clip-art-instagram-5abe0f43df0ec7.6005389915224051879137.jpg">
+<div style='display:flex; align-items:center;'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="100px">
+    <img src="">
+    <img src="">
+</div>
 
 <br>
 
