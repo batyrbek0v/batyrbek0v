@@ -8,8 +8,7 @@
  
 <div style='display:flex; align-items:center;'>
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="300px">
-    <img src="">
-    <img src="">
+    <img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/11th-and-12th-cs-1.gif" width="300px" height="150px">
 </div>
 
 <br>
