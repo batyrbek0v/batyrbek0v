@@ -11,7 +11,7 @@
 
 <br>
 
-# Social🛸
+# Social 📱
 
 <div style="width: 10px; display: flex; justify-content: left;">
     <a href="https://t.me/ErlanzZz">
