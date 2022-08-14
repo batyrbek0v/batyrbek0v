@@ -31,4 +31,4 @@
 ### Stats 📊:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batyrbek0v&show_icons=true&theme=material-palenight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyrbek0v&layout=compact&theme=material-palenight" />
-
+<img align="bottom" width="120px" src="https://gpvc.arturio.dev/batyrbek0v" />
