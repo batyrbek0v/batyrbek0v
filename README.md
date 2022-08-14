@@ -23,6 +23,9 @@
 <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 
+- How to contact me
+<a href="https://t.me/ErlanzZz"> Telegram </a>
+
 ### Stats 📊:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batyrbek0v&show_icons=true&theme=material-palenight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyrbek0v&layout=compact&theme=material-palenight" />
