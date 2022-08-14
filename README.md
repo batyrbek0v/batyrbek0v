@@ -24,7 +24,9 @@
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 
 - How to contact me
-<a href="https://t.me/ErlanzZz"> Telegram </a>
+<a href="https://t.me/ErlanzZz"> 
+ <img width="60px" src="https://icons-for-free.com/iconfiles/png/512/messenger+social+telegram+icon-1320194696007326491.png">
+</a>
 
 ### Stats 📊:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batyrbek0v&show_icons=true&theme=material-palenight" />
