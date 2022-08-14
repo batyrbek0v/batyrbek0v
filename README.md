@@ -1,29 +1,32 @@
-# <h1>Hello World!🌍</h1>
-<div>
-    <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500px" height="300px">
-</div>
+### Hi everyone, I'm Erlan 👋
+### Skills:
+- Languages and Libraries
+ <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+ <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img align="left"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+ <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
 
-<br>
-
-# Code on👨‍💻
  
-<div style='display:flex; align-items:center;'>
-    <img  src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="300px">
+- Frameworks
+<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 
-</div>
+- DataBase
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 
-<br>
+- Package 
+<img align="left" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
 
-# Social 📱
+- Helpers
+<img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 
-<div style="width: 10px; display: flex; justify-content: left;">
-    <a href="https://t.me/ErlanzZz">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="100px">
-    </a>
-</div>
+### Stats 📊:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batyrbek0v&show_icons=true&theme=material-palenight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyrbek0v&layout=compact&theme=material-palenight" />
 
-<br>
-
-# Databases🌌
-
-<img width="150px" src="https://camo.githubusercontent.com/e068b5e89975869212c4ce5fa13a6c29ed5eccd50ca628515f7acc6d1f260ca1/68747470733a2f2f6c6f676f73706e672e6f72672f77702d636f6e74656e742f75706c6f6164732f6e6f64652d6a732e706e67">
