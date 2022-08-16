@@ -1,6 +1,5 @@
 ### Hi everyone, I'm Erlan 👋
 
-<img width="400px" align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 ### Skills:
 - Languages and Libraries
@@ -8,7 +7,7 @@
  <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
  <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  
 - Frameworks
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -35,3 +34,4 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batyrbek0v&show_icons=true&theme=material-palenight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyrbek0v&layout=compact&theme=material-palenight" />
 <img align="bottom" width="120px" src="https://gpvc.arturio.dev/batyrbek0v" />
+
