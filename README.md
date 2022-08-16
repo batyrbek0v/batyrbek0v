@@ -1,4 +1,7 @@
 ### Hi everyone, I'm Erlan 👋
+
+<img width="400px" align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
+
 ### Skills:
 - Languages and Libraries
  <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
