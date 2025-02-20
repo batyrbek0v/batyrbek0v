@@ -25,7 +25,7 @@
 
 - How to contact me
 <a href="https://t.me/ErlanzZz"> 
- <img width="60px" src="https://icons-for-free.com/iconfiles/png/512/messenger+social+telegram+icon-1320194696007326491.png">
+ <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png">
 </a>
 
 ### Stats 📊:
